@@ -2,4 +2,4 @@
 ![Webapp](2.png)
 
 # FastAPI Nepali News Recommendation Perview
-![recommendation](2.png)
+![recommendation](recommendation.png)
